@@ -6,4 +6,4 @@ Taken with [Morteza Hashemi](https://web.archive.org/web/https://hashemi.ku.edu/
 
 | Lab                    | Grade |
 | ---------------------- | ----- |
-| [Homework 4](/HW4.pdf) |       |
+| [Homework 4](/HW4.pdf) | 50/50 |
